@@ -1,0 +1,1 @@
+/git/puppet.git/hooks/commit_hooks/web-post-receive.sh -d 'localhost' -f '/etc/puppetlabs/code/environments/' -r 'git@alis-dsg-pupms:/git/puppet.git' -i '/git/puppet.git/hooks/id_rsa' -u 'root'
