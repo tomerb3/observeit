@@ -1,1 +1,1 @@
-echo a
+echo a > c:\temp\aaa.txt
