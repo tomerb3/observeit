@@ -1,1 +1,1 @@
-echo a > c:\temp\aaa.txt
+echo a %1 z> c:\temp\aaa.txt
